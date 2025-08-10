@@ -121,10 +121,6 @@ Modify the `speech_to_text.py` to add custom wake word detection.
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Acknowledgments
 
 - OpenAI for Whisper and GPT models
